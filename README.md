@@ -97,7 +97,7 @@ cd CryptocurrencyApp
 ```
 
 <p align="center">
-<img alt="screenshots"  src="https://github.com/ramaraokotu/CryptocurrencyApp/blob/main/cryptocurrency_coins_list.png">
+<img alt="screenshots"  src="https://github.com/ramaraokotu/CryptocurrencyApp/blob/main/cryptocurrency_coins_list.png?raw=true">
 </p>
 
 
