@@ -5,7 +5,7 @@ Welcome to CryptocurrencyApp, a CryptocurrencyApp application built with MVVM ar
 ## Major Highlights
 
 - **Jetpack Compose** for modern UI
-- **MVVM architecture with Clean Architecture** for a clean and scalable codebase
+- **MVVM architecture combined with Clean Architecture** ensures a clean and scalable codebase.
 - **Kotlin** and **Kotlin DSL**
 - **Dagger Hilt** for efficient dependency injection.
 - **Retrofit** for seamless networking
@@ -97,7 +97,8 @@ cd CryptocurrencyApp
 ```
 
 <p align="center">
-<img alt="screenshots"  src="https://github.com/ramaraokotu/CryptocurrencyApp/blob/main/cryptocurrency_coins_list.png?raw=true">
+  <img alt="screenshot1" src="https://github.com/ramaraokotu/CryptocurrencyApp/blob/main/cryptocurrency_coins_list.png?raw=true" width="300">
+  <img alt="screenshot2" src="https://github.com/ramaraokotu/CryptocurrencyApp/blob/main/cryptocurrency_coin_detail.png?raw=true" width="300">
 </p>
 
 
